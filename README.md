@@ -10,5 +10,5 @@ Cycle
 
 ----
 
-[Buy me a coffe](paypal.me/camelcc)
+[Buy me a coffe](https://paypal.me/camelcc)
 
